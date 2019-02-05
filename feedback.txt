@@ -1,0 +1,20 @@
+Feedback 05-02-2015 form Madicken Munk [Thanks!]: 
+Ok a few comments/questions/feedback items!
+- how much time do you have for this lesson?
+- will the students know any python before getting to this lesson?
+- is your goal primarily to teach python? Is there a specific goal of this workshop? Sometimes I like to motivate python specifically for research or the audience, so if that’s relevant here it might be helpful!
+
+- I really like the dataset that you’ve used.
+- I also like that you have directions on switching to different types of cells in the Jupyter notebook. It’s likely that they’ll encounter tabular data and need to document work in a notebook in the future.
+- I like the graphic you have showing the axis orientation for dataframes! Super helpful!
+- I really like the exercises that you’ve made. They’re illustrative of broader features of the stuff you’re teaching and I think they’re clear.
+
+I might add a few things
+- I might put the markdown introduction at the end so you can get to it if you have time, but not need to cover it if you run out of time. It’s super useful, but probably the most approachable section for students to study independently if needed.
+- I might put a motivator at the very top of the notebook to say why you’re teaching notebook-specific features and markdown features in addition to Python. These are great for open science! But hardcore coders or people used to other languages might not understand why notebooks can be useful for them. Notebooks are great ways to document our analyses, the features of our code that we want to highlight, or just show a process that we want to follow!
+- You introduce errors before showing students different types of python datatypes. Will the students know this already? I might add another section showing how you modify and play around with those datatypes first if they don’t.
+- You may want to add a section on python variables and a good naming convention to use (e.g. don’t name your variable something that should already exist elsewhere).
+- A “question” that you have in the errors section is “How can I handle errors in Python programs?“. Most of this section focuses on finding their cause and fixing it, so maybe it could be “How can I recognize different errors in Python programs and fix them?”
+- I’m not sure if you have instructor notes, but you may want some reminders in places. e.g. define what a Traceback is at the start of the errors section.
+- The errors section introduces a lot if these students haven’t seen python before. You have errors and tracebacks, but you also have variable and function definitions. I might add short sections on how to create variables with different datatypes and how to define functions in python before getting to this section if they’re Python novices.
+- The first time you introduce libraries is in the tabular data /DataFrames section. Maybe you want a short interlude on the most helpful libraries for scientific python (e.g. matplotlib) and best practices on importing libraries? Import issues can be common for students so you might want to address this to head off issues as you’re teaching.
