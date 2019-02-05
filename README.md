@@ -4,4 +4,4 @@ This is the git repo for Benjamin Schwessingers teaching at ABC_python course at
 The material is borrowed from the following sources:
 * https://software-carpentry.org/lessons/
 * https://github.com/aspp-apac/2019-debugging
-* https://github.com/aspp-apac/2019-data-tidying-and-visualisation (with permission)
+* https://github.com/aspp-apac/2019-data-tidying-and-visualisation
