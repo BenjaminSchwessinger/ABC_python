@@ -1,0 +1,11 @@
+name: ABC_python
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - IPython
+  - datetime
+  - io
